@@ -1,6 +1,6 @@
 # Acionamento de ARP
 
-- aplica-se a: Adesão ao registro de preço (ARP)
+- aplica-se a: Adesão ao registro de preço (ARP) | Adesão à ata de registro de preço
 - marcador: Acionamento ATA TJAM
 
 ## 1. DFD
